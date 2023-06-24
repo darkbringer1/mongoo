@@ -1,0 +1,1 @@
+Sorry, but this is just a go.mod file, it does not contain any code or documentation to be parsed. The file lists some dependencies required by the module and their respective versions. Is there any specific Go code you would like documentation for?
